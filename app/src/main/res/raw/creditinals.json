@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studied-union-110603",
+  "private_key_id": "161540f73525bafbf7c35cedda0ef8476089cc3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCatMlmvuRnrwRf\ne/mu/6H7eBvop3b2ISFBJmdWzvHvETOP4+YBImiwYLhiUdQFo5MOSxPBXKCluqD6\n34ZNsxO6t/ZypWcKCFuswxxHjrYxa/S+02M89fXc2D1n+mnLyDcBKwsJX5obVYzq\nuGlvOB9JJ+aNB2gA9BfJXfmV3cboliivokTYDk7RYFi9j7gp3JPl2Tovedlc6K/Q\nRuguwgiimTfX0BO2gXNVk6kQyHCZLgWGKkk38m030aPJh4nugBf3O+0ysEEVg3ZC\nEzmY7+uT3qvK2NkkcPjHyQQmtM0kg9HrKM9eYAJHnCWc9AoU7pUyAxU53EFP2/U/\n8LsHhQKNAgMBAAECggEATRRLDjaI3UHdd2dxAOhbv8tZeGLLihj6lRe5wA4Oi1Ky\nMnxVMfZ/W3VtGIt1jDOyBpqQZrQsVDY2k5f/tcHF0C9tCjTvsBd2+Y4ijmKD0v7b\nK6JtnMddLqHMgnxI7t+7zAiykIKB6SGIOsATw/ad29iV7Wklv+fd3BXGzwz22BWF\ne8I4xmZChC644USBfiO8XKDFF9IUf/EhbXmUR3+bPPFapAgUnIrAMfW5fNkNoRmK\nssJLGf/M628Z8e5nRgAm3xZmK9iqsyf9eoO5CRWta6lS9bNzlzktLK+oSoVoDDcc\nXudY8tCe3g6NH16Y6pQXNUpidhVdrEtTi3UV+igYnwKBgQDYtLHJj3VlH13U/zSp\nHVhunEOH52Oot7Pia9nQhxxAEM8/dmKNX0OBwmuaG5NoADHZIAC9NaVrTh6Xm8dp\nMaafwU/6L4PDrJOJOMCoNB8ytR5u7VRkt3JMg+DcSfuePEGozBVB50BWrpkhBy7T\nHBI/+PXX+2DF+TPuLZCLf1bDHwKBgQC2wh7NAxoid1obqHSGggS3TJwprKOTlXBQ\nWmMFDrYCvS3wa3kliqabixr0PPOwrlkbqXVJodIlNhTtvjjLNd3RY+nop1XxuT8D\nIT/BUXHROQw6MQ4C90Pn8Qe1YRA0St/UOHAALk/UsLyWrMCDKEEVj9hfCQmaERA7\nbAvWjWfQ0wKBgQDVyhYnoqcPd01rx8adHL1Uikc5OXchSPJnaz08sz6UmcDMfC+o\nBxajWjorlA7tqFuFOERiZh1m6m/V5DJrvjcDHoSXbu7QSV5YHyw6BQnOTc7TYsJC\nhpR1lhltWnOo3QttysEh/lGD8sZRRjPUw7nhcOyhAnereDnaPQuAA8WFwwKBgQCa\n/e5ZN7RGXqoQosCQAlw1h8c4oKzpUOc7fixT8bHyiLYZG0xWxkudxk9JqxeQU4xG\npWRO2en6nO8K4TQRQtGn7vBE2wVMRyplYSFMteGs6pCwGUIkycbRQdyjunmfn5BL\nzsFNpfkWC/0kW8W4db8cpi1+C5AVFTuK6YrwnmPY+QKBgQCRhvrCNP6OMh5xaoPQ\nTSGEfbGJW5w51v3oFFcXOg954EGGgLo3gVHTouLayLUoD/onpi2KnpT75NjfMAVY\n6JNHcmajXbwkstPNfqgJo7y/Bw9zvqpVaDyMaNClGGb/TxIu2crin9I/IwBom2Xa\n6XYIir0ejfieqHGmC3TXOYeTEg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "voiceconversion@studied-union-110603.iam.gserviceaccount.com",
+  "client_id": "118200396645102975174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voiceconversion%40studied-union-110603.iam.gserviceaccount.com"
+}

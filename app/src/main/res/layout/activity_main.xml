@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/ddddd"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+   <ImageButton
+       android:id="@+id/translateButton"
+       
+       android:layout_gravity="center"
+       android:src="@drawable/ic_settings_voice_black_24dp"
+       android:layout_width="50dp"
+       android:layout_height="50dp"/>
+
+    <EditText
+        android:id="@+id/titleleave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/startdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/endate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/remarks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+ <EditText
+     android:id="@+id/shifting"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/anotheractivity"
+        android:text="Another Activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/voiceChangerSetting"
+        android:text="Voice Changer Setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
